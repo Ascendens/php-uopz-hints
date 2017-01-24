@@ -1,0 +1,16 @@
+{
+    "name": "ascendens/php-uopz-hints",
+    "description": "A code hint file for the UOPZ extension",
+    "keywords": ["uopz", "hint"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Kotelnik",
+            "email": "uarockfan@gmail.com",
+            "homepage": "http://www.ascendens.net"
+        }
+    ],
+    "suggest": {
+        "ext-uopz": "For using the UOPZ API."
+    }
+}
